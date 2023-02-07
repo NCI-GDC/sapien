@@ -1,5 +1,5 @@
 {
-  "name": "@NCI-GDC/sapien",
+  "name": "@oncojs/sapien",
   "private": true,
   "version": "0.5.3",
   "license": "Apache-2.0",
